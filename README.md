@@ -1,7 +1,11 @@
-- 👋 Hi, I’m @WestInDev64
-- 👀 I’m interested in API-REST in web environement.
-- I'm using Gitlab => https://gitlab.com/westindev
+- 👋 Hi, I’m @westindev-lbr Web software engineer 
+- 👀 I’m interested in API-REST.
+- I'm using Gitlab too => https://gitlab.com/westindev
 
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=westindev-lbr&show_icons=true&theme=dracula)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=westindev-lbr&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!---
