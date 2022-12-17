@@ -5,7 +5,7 @@
 
 - I'm using Gitlab too => https://gitlab.com/westindev
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=westindev-lbr&layout=compact&langs_count=10)]
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=westindev-lbr&layout=compact&langs_count=10)
 
 
 <!---
