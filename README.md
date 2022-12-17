@@ -5,7 +5,7 @@
 
 - I'm using Gitlab too => https://gitlab.com/westindev
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=westindev-lbr&how_icons=true&count_private=true&custom_title=My%20GitHub%20profile&theme=github_dark&hide_border=true&langs_count=10)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=westindev-lbr&langs_count=10&how_icons=true&count_private=true&custom_title=My%20GitHub%20profile&theme=github_dark&hide_border=true)
 
 <!---
 WestInDev64/WestInDev64 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
