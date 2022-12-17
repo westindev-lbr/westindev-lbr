@@ -1,13 +1,11 @@
-- 👋 Hi, I’m @westindev-lbr Web software engineer 
+- 👋 Hi, I’m @westindev-lbr Web software engineer Student
 - 👀 I’m interested in API-REST.
-- 🌱 I’m currently learning .NET, Angular and TDD
+- 🌱 I’m currently learning .NET, Angular, Sql, TDD and Clean Architecture
 - 
 
 - I'm using Gitlab too => https://gitlab.com/westindev
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/westindev-lbr/)  
-
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=westindev-lbr&layout=compact)](https://github.com/westindev-lbr/westindev-lbr)  
 
 
 <!---
