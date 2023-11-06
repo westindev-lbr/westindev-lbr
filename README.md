@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @westindev-lbr Web & software engineer Student
-- 👀 I’m interested in API-REST, TDD and Clean Architecture
-- 🌱 I’m currently learning .NET, Angular, C/C++, SQL, Docker, Flutter, NodeJs
-
-- I'm using Gitlab too => https://gitlab.com/westindev
+<span style="color:blue;">👋 Hi, I’m <westindev> software engineer student at UniversiteDeLille</span>
+  
+-  Interest in TDD and Clean Architecture
+- 🌱 I’m currently learning .NET, Angular, C/C++, SQL, Docker, Flutter, NestJs
+- ✉️ Reach me : contact@axel-lab.dev
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=westindev-lbr&langs_count=10&how_icons=true&count_private=true&custom_title=My%20GitHub%20profile&theme=github_dark&hide_border=true)
 
