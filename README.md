@@ -1,6 +1,6 @@
-<span style="color:blue;">👋 Hi, I’m <westindev> software engineer student at UniversiteDeLille</span>
+<span style="color:blue;">👋 Hi, I’m <westindev> software engineer student at University of Lille</span>
   
--  Interest in TDD and Clean Architecture
+-  Interest & Research in TDD and Clean Architecture
 - 🌱 I’m currently learning .NET, Angular, C/C++, SQL, Docker, Flutter, NestJs
 - ✉️ Reach me : contact@axel-lab.dev
 
