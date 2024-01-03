@@ -6,7 +6,7 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=westindev-lbr&langs_count=10&how_icons=true&count_private=true&custom_title=My%20GitHub%20profile&theme=github_dark&hide_border=true)
 
-## Skills _< 
+## Tech Stack  _< 
 
 ![typeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=TypeScript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=black)
