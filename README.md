@@ -12,6 +12,7 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=black)
 ![C](https://img.shields.io/badge/c-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
 ![C++](https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=cpp&logoColor=white)
+![flutter](https://img.shields.io/badge/flutter-00599C?style=for-the-badge&logo=cpp&logoColor=white)
 
 <!---
 westindev-lbr/westindev-lbr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
