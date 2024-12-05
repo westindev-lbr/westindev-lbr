@@ -22,24 +22,24 @@ I’m <westindev> a software engineer student at University of Lille.
 
 ---
 
-### 💻 Tech Stack  _< 
+### 💻 Specialized in not specific language  _< 
 
-![typeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=TypeScript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=black)
-![C](https://img.shields.io/badge/c-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
-![C++](https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=cpp&logoColor=white)
-![flutter](https://img.shields.io/badge/flutter-B3E5FC?style=for-the-badge&logo=flutter&logoColor=white)
-<img src="https://media.giphy.com/media/onvmCjBsZXmwR3x21E/giphy.gif" width="100"/>
-![.NET](https://img.shields.io/badge/net-00599C?style=for-the-badge&logo=dotnet&logoColor=white)
-
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=westindev-lbr&langs_count=10&how_icons=true&count_private=true&custom_title=My%20GitHub%20profile&theme=github_dark&hide_border=true)
+![typeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Angular](https://img.shields.io/badge/Angular-b048f4?style=flat&logo=angular&logoColor=white)
+![C](https://img.shields.io/badge/c-A8B9CC?style=flat&logo=c&logoColor=black)
+![C++](https://img.shields.io/badge/c++-00599C?style=flat&logo=c++&logoColor=white)
+![flutter](https://img.shields.io/badge/flutter-B3E5FC?style=flat&logo=flutter&logoColor=white)
+![.NET](https://img.shields.io/badge/net-00599C?style=flat&logo=dotnet&logoColor=white)
+![.C#](https://img.shields.io/badge/csharp-00599C?style=flat&logo=csharp&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
 
 ---
 
-### :fire: My Stats :
+### 📊 Github stats
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=westindev-lbr&theme=dark&background=000000)](https://git.io/streak-stats)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=westindev-lbr&layout=compact&theme=radical)](https://github.com/westindev-lbr)
+
 
 <!---
 westindev-lbr/westindev-lbr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
