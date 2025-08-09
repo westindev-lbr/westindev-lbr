@@ -14,11 +14,11 @@
 
 ### 👨‍💻 About Me :
 
-I’m <westindev> a software engineer student at University of Lille.
+I’m <westindev> a software engineer.
   
-- :telescope: Interest & Research in TDD and Clean Architecture
+- :telescope: Interest & Research in TDD and Hexagonals Architectures
 - 🌱 I’m currently learning .NET, Angular, C/C++, SQL, Docker, Flutter, NestJs
-- 📫 Reach me : contact@axel-lab.dev or [![Linkedin Badge](https://img.shields.io/badge/-profile-blue?style=flat&logo=Linkedin&logoColor=white)]([your-linkedin-url](https://www.linkedin.com/in/axel-labarre-492a34175/))
+- 📫 Reach me : axel.labarre@gmail.com or [![Linkedin Badge](https://img.shields.io/badge/-profile-blue?style=flat&logo=Linkedin&logoColor=white)]([your-linkedin-url](https://www.linkedin.com/in/axel-labarre-492a34175/))
 
 ---
 
